@@ -1,0 +1,4 @@
+float32[4] temp_driver
+float32[4] temp_motors
+float32[4] volt_motors
+int16[4] error_motors
